@@ -7,7 +7,8 @@ ________________________________________
 Progress Update:
 - performed advanced transformations and visualized them
 
-Challenges Faced: Lack of time to work on the dissertation due to exams going on, and also one Final CA due this Friday (16.05)
+Challenges Faced: 
+- lack of time to work on the dissertation due to exams going on, and also one Final CA due this Friday (16.05)
 
 Next Steps: check size distribution of original images
 ________________________________________
