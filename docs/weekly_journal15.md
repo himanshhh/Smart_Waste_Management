@@ -15,7 +15,7 @@ Challenges Faced:
 - The results improved slightly after the application of fine-tuning.
 - However, the confusion between classes was not improved.
 
-Next Steps: Fit more pre-trained models using stranger Learning and fine-tuning for our given task of waste classification.  The results will be compared based on MAP, precision, recall and accuracy.
+Next Steps: Fit more pre-trained models using Transfer Learning and fine-tuning for our given task of waste classification.  The results will be compared based on MAP, precision, recall and accuracy.
 ________________________________________
 Next Journal: \
 Date: 17/08/2025 \
