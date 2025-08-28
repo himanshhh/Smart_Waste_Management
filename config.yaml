@@ -1,0 +1,38 @@
+# config.yaml
+# Configuration settings for Smart Waste Management with Deep Learning
+
+dataset:
+  path: "data/"
+  train_dir: "data/train"
+  val_dir: "data/val"
+  test_dir: "data/test"
+  image_size: [224, 224]
+  batch_size: 32
+  classes: ["Glass", "Metal", "Plastic", "Bin", "Other"]
+
+training:
+  epochs: 30
+  learning_rate: 0.001
+  dropout_rate: 0.5
+  early_stopping: true
+  patience: 5
+  stratified_kfold: 5
+
+model:
+  type: "MobileNetV2"    # options: BasicModel, MobileNetV2, InceptionV3, EfficientNetB0, ResNet50
+  pretrained: true
+  fine_tune: true
+  save_path: "models/best_model.h5"
+
+metrics:
+  - accuracy
+  - precision
+  - recall
+  - f1_score
+  - mAP
+
+output:
+  logs_dir: "logs/"
+  plots_dir: "plots/"
+  confusion_matrix: true
+  save_history: true
