@@ -15,7 +15,7 @@ python data_preprocessing.py
 - Sets up train, validation, and test generators with image augmentation
 - Computes class weights for handling imbalanced classes
 
-## Key Steps
+## Dependencies
 - Python 3.x
 - pandas
 - numpy
