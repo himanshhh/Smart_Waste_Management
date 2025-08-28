@@ -65,11 +65,11 @@ This project demonstrates how preprocessing, cross-validation, and model selecti
 - InceptionV3 (fine-tuned): **mAP = 0.72**, highest single-image confidence (100%)  
 - EfficientNetB0 & ResNet50 underperformed relative to the above models  
 
-🔎 Final takeaway: **MobileNetV2 provides the best trade-off between accuracy, confidence, and training efficiency.**
+Final takeaway: **MobileNetV2 provides the best trade-off between accuracy, confidence, and training efficiency.**
 
 ---
 
-## 🔮 Future Work
+## Future Work
 - Further hyperparameter tuning (e.g., learning rate optimization)  
 - Exploration of additional transfer learning architectures  
 - Deployment of a **real-time waste classification application with user interface**  
@@ -78,7 +78,7 @@ This project demonstrates how preprocessing, cross-validation, and model selecti
 
 ---
 
-## 📥 Installation
+## Installation
 Clone this repository and install required dependencies:  
 ```bash
 git clone <https://gitlab.comp.dkit.ie/D00233455/masters-dissertation>
