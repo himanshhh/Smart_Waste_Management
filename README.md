@@ -80,6 +80,13 @@ This **Master's Dissertation** explores the application of deep learning for **w
 
 ---
 
+## 📄 Full Dissertation
+
+The complete dissertation detailing methodology, experiments, and results is available as a PDF in this repository:  
+[Download Thesis PDF](./theis.pdf)
+
+---
+
 ## ⚙️ Installation
 Clone this repository and install required dependencies:  
 ```bash
